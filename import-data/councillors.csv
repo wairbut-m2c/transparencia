@@ -23,9 +23,9 @@ councillor_code,personal_code,name,party_long_name,post
 51,,Begoña Villacís Sánchez,Grupo Municipal Ciudadano - Partido de la Ciudadanía,Concejala
 52,171357,Miguel Ángel Redondo  Rodríguez,Grupo Municipal Ciudadano - Partido de la Ciudadanía,Concejal
 53,171005,Sofía Miranda Esteban,Grupo Municipal Ciudadano - Partido de la Ciudadanía,Concejala
-54,149153,Sergio Brabezo Carballo,Grupo Municipal Ciudadano - Partido de la Ciudadanía,Concejal
-56,160301,Bosco Labrado Prieto,Grupo Municipal Ciudadano - Partido de la Ciudadanía,Concejal
-57,130588,Silvia Elena Saavedra Ibarrondo,Grupo Municipal Ciudadano - Partido de la Ciudadanía,Concejala
+54,171004,Sergio Brabezo Carballo,Grupo Municipal Ciudadano - Partido de la Ciudadanía,Concejal
+56,171152,Bosco Labrado Prieto,Grupo Municipal Ciudadano - Partido de la Ciudadanía,Concejal
+57,86371,Silvia Elena Saavedra Ibarrondo,Grupo Municipal Ciudadano - Partido de la Ciudadanía,Concejala
 11,171656,Pablo Cavero Martínez de Campos,Grupo Municipal del Partido Popular,Concejal
 14,171657,Francisco de Borja Carabante Muntada,Grupo Municipal del Partido Popular,Concejal
 15,64053,Alvaro González López,Grupo Municipal del Partido Popular,Concejal
@@ -33,12 +33,12 @@ councillor_code,personal_code,name,party_long_name,post
 17,171008,Francisco de Borja Fanjul Fernández-Pita,Grupo Municipal del Partido Popular,Concejal
 18,171007,María Carmen Castell Díaz,Grupo Municipal del Partido Popular,Concejala
 19,76081,Jesús Moreno Sánchez,Grupo Municipal del Partido Popular,Concejal
-20,76081,Pedro María Corral Corral,Grupo Municipal del Partido Popular,Concejal
+20,157202,Pedro María Corral Corral,Grupo Municipal del Partido Popular,Concejal
 21,63921,María Begoña Larrainzar Zaballa,Grupo Municipal del Partido Popular,Concejala
 4,171352,Alicia Delibes Liniers,Grupo Municipal del Partido Popular,Concejala
 5,66058,María Inmaculada Sanz Otero,Grupo Municipal del Partido Popular,Concejala
 6,171353,Percival Peter Manglano Albacar,Grupo Municipal del Partido Popular,Concejal
-2,20558,Iñigo Henríquez de Luna Losada,Grupo Municipal del Partido Popular,Concejal
+2,5697,Iñigo Henríquez de Luna Losada,Grupo Municipal del Partido Popular,Concejal
 3,171133,José Luis Martínez-Almeida Navasqüés,Grupo Municipal del Partido Popular,Concejal
 7,5586,Fernando Martínez Vidal,Grupo Municipal del Partido Popular,Concejal
 8,9066,Beatriz María Elorriaga Pisarik,Grupo Municipal del Partido Popular,Concejala
@@ -48,7 +48,7 @@ councillor_code,personal_code,name,party_long_name,post
 13,156751,Almudena Maíllo Del Valle,Grupo Municipal del Partido Popular,Concejala
 1,2379,Esperanza Aguirre Gil de Biedma,Grupo Municipal del Partido Popular,Concejala
 45,171403,María de las Mercedes González Fernández,Grupo Municipal Socialista de Madrid,Concejala
-46,11350,Ignacio De Benito  Pérez,Grupo Municipal Socialista de Madrid,Concejal
+46,171129,Ignacio De Benito  Pérez,Grupo Municipal Socialista de Madrid,Concejal
 42,171002,Antonio Miguel Carmona Sancipriano,Grupo Municipal Socialista de Madrid,Concejal
 43,,Purificación Causapié Lopesino,Grupo Municipal Socialista de Madrid,Concejala
 44,,Julio Ramsés Pérez Boga,Grupo Municipal Socialista de Madrid,Concejal
