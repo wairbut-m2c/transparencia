@@ -88,7 +88,7 @@ curso.  No aparecen los modelos que alega como documento adjunto"
 29,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Madrid,40.83,12/05/2005,"111,825.40 €",
 29,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Madrid,33.33,07/07/2006,"111,825.40 €",
 30,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Herencia,Santa Pola,18,, ,No dispone de fecha ni valor porque la propiedad se vendió. A fecha 27-11 no posee
-31,Rústico,Pleno dominio,Compraventa,Madrid,100,29/09/2005, ,
+31,Urbano,Pleno dominio,Compraventa,Madrid,100,29/09/2005, ,
 32,Urbano,Pleno dominio,,Madrid,50,01/09/2001, ,
 32,Urbano,Nuda propiedad,,Madrid,25,01/05/1968,,
 35,Urbano,Pleno dominio,Compraventa,Madrid,50,09/08/2000,"61,085.12 €",
@@ -149,3 +149,6 @@ curso.  No aparecen los modelos que alega como documento adjunto"
 57,Urbano,Pleno dominio,,Madrid,100,15/01/2005, ,Vivienda
 57,Urbano,Pleno dominio,,Madrid,50,09/12/2010,,Vivienda
 57,Urbano,Pleno dominio,,Madrid,100,15/01/2005,,Garaje
+44,Urbano,Pleno dominio,Compraventa,A Coruña,50,05/05/2003,"43,988.07 €",
+44,Urbano,Pleno dominio,Compraventa,A Coruña,50,23/06/2009,"97,267.46 €",
+44,Urbano,Pleno dominio,Compraventa,A Coruña,50,05/05/1993,"99,801.86 €",
