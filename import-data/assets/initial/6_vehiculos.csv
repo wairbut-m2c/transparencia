@@ -1,4 +1,4 @@
-CódigoPersona,Clase,Marca y modelo,Fecha de adquisición,,,,,,,,,,,,,,,,,,,,,,,
+CodigoPersona,Clase,Marca y modelo,Fecha de adquisición,,,,,,,,,,,,,,,,,,,,,,,
 1,Automóviles,Toyota Verso,2013,,,,,,,,,,,,,,,,,,,,,,Inicial,Automóviles
 2,Motocicletas,Yamaha X-MAX 250CC,2013,,,,,,,,,,,,,,,,,,,,,,Final,Motocicletas
 3,Automóviles,Mercedes Benz Clase A,2013,,,,,,,,,,,,,,,,,,,,,,Modificación,Embarcacioes
@@ -43,6 +43,7 @@ CódigoPersona,Clase,Marca y modelo,Fecha de adquisición,,,,,,,,,,,,,,,,,,,,,,,
 41,Automóviles,Opel Astra 5P Club 1.6 SV II 64/55 (cvf),2015,,,,,,,,,,,,,,,,,,,,,,,
 42,Motocicletas,Kymco Venox,01/02/2003,,,,,,,,,,,,,,,,,,,,,,,
 43,Automóviles,Nissan Qashqai J10,19/02/2014,,,,,,,,,,,,,,,,,,,,,,,
+44,Automóviles,Renault Scenic,30/08/2012,,,,,,,,,,,,,,,,,,,,,,,
 45,Automóviles,BMV 116 I,01/02/2005,,,,,,,,,,,,,,,,,,,,,,,
 46,Automóviles,Ford Focus,01/02/2008,,,,,,,,,,,,,,,,,,,,,,,
 47,Automóviles,Seat León,07/04/2011,,,,,,,,,,,,,,,,,,,,,,,
@@ -52,4 +53,5 @@ CódigoPersona,Clase,Marca y modelo,Fecha de adquisición,,,,,,,,,,,,,,,,,,,,,,,
 53,Automóviles,Seat Ibiza TDI,01/03/2003,,,,,,,,,,,,,,,,,,,,,,,
 54,Motocicletas,Scotter Honda Scoopy,18/06/2009,,,,,,,,,,,,,,,,,,,,,,,
 56,Automóviles,Volkswagen Polo TDI,14/10/2005,,,,,,,,,,,,,,,,,,,,,,,
-44,Automóviles,Renault Scenic,30/08/2012,,,,,,,,,,,,,,,,,,,,,,,
+58,Automóviles,Mercedes 180,2002,,,,,,,,,,,,,,,,,,,,,,Inicial,Automóviles
+58,Automóviles,Mercedes 380,2006,,,,,,,,,,,,,,,,,,,,,,Final,Motocicletas
