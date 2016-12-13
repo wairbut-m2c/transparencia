@@ -12,10 +12,10 @@ councillor_order,num_trans,first_name,last_name,party_long_name,post,previous_ca
 11,11,Pablo,Cavero Martínez de Campos,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejal,,,2016-08-29,2015-06-13
 12,12,María Isabel,Martínez-Cubells Yraola,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejala,,,,2015-06-13
 13,13,Almudena,Maíllo Del Valle,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejala,,,,2015-06-13
-14,14,Francisco de Borja,Carabante Muntada,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejal,,,,2015-06-13
+14,14,Francisco de Borja,Carabante Muntada,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejal,,,2016-11-23,2015-06-13
 15,15,Alvaro,González López,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejal,,,,2015-06-13
 16,16,Ana María,Román Martín,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejala,,,,2015-06-13
-17,17,Francisco de Borja,Fanjul Fernández-Pita,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejal,,,,2015-06-13
+17,17,Francisco de Borja,Fanjul Fernández-Pita,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejal,,,2016-11-28,2015-06-13
 18,18,María Carmen,Castell Díaz,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejala,,,,2015-06-13
 19,19,Jesús Moreno,Sánchez,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejal,,,,2015-06-13
 20,20,Pedro María,Corral Corral,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejal,,,,2015-06-13
@@ -48,7 +48,7 @@ councillor_order,num_trans,first_name,last_name,party_long_name,post,previous_ca
 47,46,Ignacio,De Benito Pérez,GRUPO MUNICIPAL SOCIALISTA DE MADRID,Concejal,,,,2015-06-13
 48,47,María del Mar,Espinar Mesa-Moles,GRUPO MUNICIPAL SOCIALISTA DE MADRID,Concejala,,,,2015-06-13
 49,48,José Manuel,Dávila Pérez,GRUPO MUNICIPAL SOCIALISTA DE MADRID,Concejal,,,,2015-06-13
-50,49,María Carlota,Merchán Mesón,GRUPO MUNICIPAL SOCIALISTA DE MADRID,Concejala,,,,2015-06-13
+50,49,María Carlota,Merchán Mesón,GRUPO MUNICIPAL SOCIALISTA DE MADRID,Concejala,,,2016-11-24,2015-06-13
 51,50,Ramón,Silva Buenadicha,GRUPO MUNICIPAL SOCIALISTA DE MADRID,Concejal,,,,2015-06-13
 52,51,Begoña,Villacís Sánchez,GRUPO MUNICIPAL CIUDADANOS - PARTIDO DE LA CIUDADANIA,Concejala,,,,2015-06-13
 53,52,Miguel Ángel,Redondo Rodríguez,GRUPO MUNICIPAL CIUDADANOS - PARTIDO DE LA CIUDADANIA,Concejal,,,,2015-06-13
@@ -57,3 +57,5 @@ councillor_order,num_trans,first_name,last_name,party_long_name,post,previous_ca
 56,55,Ana María,Domínguez Soler,GRUPO MUNICIPAL CIUDADANOS - PARTIDO DE LA CIUDADANIA,Concejala,,,,2015-06-13
 57,56,Bosco,Labrado Prieto,GRUPO MUNICIPAL CIUDADANOS - PARTIDO DE LA CIUDADANIA,Concejal,,,,2015-06-13
 58,57,Silvia Elena,Saavedra Ibarrondo,GRUPO MUNICIPAL CIUDADANOS - PARTIDO DE LA CIUDADANIA,Concejala,,,,2015-06-13
+59,59,Orlando,Chacón Tabares,GRUPO MUNICIPAL DEL PARTIDO POPULAR,Concejal,,,,2016-11-28
+60,60,Érika María,Rodríguez Pinzón,GRUPO MUNICIPAL SOCIALISTA DE MADRID,Concejala,,,,2016-11-28
