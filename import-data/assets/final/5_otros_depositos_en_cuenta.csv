@@ -1,8 +1,10 @@
-CodigoPersona,Clase,Descripción,Fecha de adquisición,"Número, cuantía o valor en euros",,,,,,,,,,,,,,,,,,,,,,
-11,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Acciones ASYS S.L. e INTERORGAZ S.L.,1993,10%,,,,,,,,,,,,,,,,,,,,,Inicial,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva
-11,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Acciones Adagalia Sicav,2003,"1,600,000.00 €",,,,,,,,,,,,,,,,,,,,,Final,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias"
-11,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Acciones Bussola 99 Sicav,2003,"800,000.00 €",,,,,,,,,,,,,,,,,,,,,Modificación,"Deuda pública, obligaciones y bonos"
-11,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Fondos de inversión JP Morgan,2003,"3,400,000.00 €",,,,,,,,,,,,,,,,,,,,,,"Otros bienes patrimoniales (derechos derivados de la propiedad intelectual o industrial, pagarés, etc.)"
-11,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Acciones Rentkatus S.L.,2003,722.723 participaciones,,,,,,,,,,,,,,,,,,,,,,
-11,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",Seguro CNP Barclays,,"145,000.00 €",,,,,,,,,,,,,,,,,,,,,,
-11,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",Fondos de pensiones Caixa,,"285,000.00 €",,,,,,,,,,,,,,,,,,,,,,
+CodigoPersona,Clase,Descripción,Fecha de adquisición,"Número, cuantía o valor en euros"
+11,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Acciones ASYS S.L. e INTERORGAZ S.L.,1993,10%
+11,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Acciones Adagalia Sicav,2003,"1,600,000.00 €"
+11,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Acciones Bussola 99 Sicav,2003,"800,000.00 €"
+11,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Fondos de inversión JP Morgan,2003,"3,400,000.00 €"
+11,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Acciones Rentkatus S.L.,2003,722.723 participaciones
+11,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",Seguro CNP Barclays,,"145,000.00 €"
+11,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",Fondos de pensiones Caixa,,"285,000.00 €"
+14,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",Plan de pensiones Bankia,,"34,140.11 €"
+17,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Acciones Banco Santander,05/07/2012,"81,973.00 €"

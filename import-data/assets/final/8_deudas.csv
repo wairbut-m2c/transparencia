@@ -1,3 +1,8 @@
-CódigoPersona,Clase,Importe actual en euros,Observaciones,,,,,,,,,,,,,,,,,,,,,,
-11,Hipoteca vivienda habitual,"360,000.00 €",,,,,,,,,,,,,,,,,,,,,,,Inicial
-11,Préstamo personal,"60,000.00 €",,,,,,,,,,,,,,,,,,,,,,,Final
+CódigoPersona,Clase,Importe actual en euros,Observaciones
+11,Hipoteca vivienda habitual,"360,000.00 €",
+11,Préstamo personal,"60,000.00 €",
+14,Hipoteca - Bankia,"248,500.00 €",
+14,Hipoteca - Bankia,"151,121.00 €",
+17,Hipoteca - Banco Santander,"90,619.00 €",50%
+17,Hipoteca - Banco Santander,"29,442.00 €",100%
+49,Crédito Hipotecario,"139,287.84 €",

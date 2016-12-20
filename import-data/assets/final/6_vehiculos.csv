@@ -1,4 +1,9 @@
-CódigoPersona,Clase,Marca y modelo,Fecha de adquisición,,,,,,,,,,,,,,,,,,,,,,,
-11,Automóviles,Toyota Landcruiser,2014,,,,,,,,,,,,,,,,,,,,,,Inicial,Automóviles
-11,Automóviles,Volkswagen Golf,1996,,,,,,,,,,,,,,,,,,,,,,Final,Motocicletas
-11,Motocicletas,Triumph Tiger,2016,,,,,,,,,,,,,,,,,,,,,,Modificación,Embarcacioes
+CódigoPersona,Clase,Marca y modelo,Fecha de adquisición
+11,Automóviles,Toyota Landcruiser,2014
+11,Automóviles,Volkswagen Golf,1996
+11,Motocicletas,Triumph Tiger,2016
+17,Automóviles,Chevrolet Orlando,19/12/2013
+17,Automóviles,Renault Laguna,2003
+17,Automóviles,Chrysler Voyager,03/12/2014
+17,Embarcacioes,Lamberty 18 Open,15/02/2009
+49,Automóviles,Volkswagen polo,01/07/2002

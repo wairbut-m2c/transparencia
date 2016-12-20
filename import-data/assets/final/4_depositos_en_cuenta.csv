@@ -1,2 +1,7 @@
-CodigoPersona,Clase,Entidad de depósito,Saldo medio anual o valor (euros),,,,,,,,,,,,,,,,,,,,,,
-11,Cuenta corriente,La Caixa,"2,000.00 €",,,,,,,,,,,,,,,,,,,,,,Inicial
+CodigoPersona,Clase,Entidad de depósito,Saldo medio anual o valor (euros)
+11,Cuenta corriente,La Caixa,"2,000.00 €"
+14,Cuenta corriente,Bankia,"3,600.00 €"
+17,Cuenta corriente,Banco Santander,"1,500.00 €"
+49,Cuenta ,BBVA,"16,171.11 €"
+49,Cuenta ,TRIODOS BANK,"1,976.94 €"
+49,Depósito,TRIODOS BANK,"1,000.00 €"
