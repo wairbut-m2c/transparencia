@@ -135,3 +135,9 @@ CodigoPersona,Clase,Entidad de depósito,Saldo medio anual o valor (euros),,,,,,
 58,Cuenta Corriente,BBVA, 148.35 € ,,,,,,,,,,,,,,,,,,,,,,Final
 58,Cuenta Corriente,Deutsche Bank, 293.11 € ,,,,,,,,,,,,,,,,,,,,,,Modificación
 58,Cuenta Corriente,Banco Santander, 150.00 € ,,,,,,,,,,,,,,,,,,,,,,
+59,Ahorro,Banco Sabadell,"2,000.00 €",,,,,,,,,,,,,,,,,,,,,,Inicial
+59,Corriente,Banco Sabadell,0.00 €,,,,,,,,,,,,,,,,,,,,,,Final
+59,Ahorro,ING DIRECT (50%),"2,900.00 €",,,,,,,,,,,,,,,,,,,,,,Modificación
+59,Ahorro,ING DIRECT (100%),400.00 €,,,,,,,,,,,,,,,,,,,,,,
+60,Cuenta de Ahorros,ING DIRECT,"19,000.00 €",,,,,,,,,,,,,,,,,,,,,,Inicial
+60,Cuenta de Ahorros,BBVA Colombia,"1,000.00 €",,,,,,,,,,,,,,,,,,,,,,Final
