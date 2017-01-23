@@ -151,10 +151,13 @@ CodigoPersona,Clase,Tipo de derecho,Título de adquisición ,Municipio,% Partici
 57,Urbano,Pleno dominio,,Madrid,100,15/01/2005, ,
 57,Urbano,Pleno dominio,,Madrid,50,09/12/2010,,
 57,Urbano,Pleno dominio,,Madrid,100,15/01/2005,,
-58,Urbano,Nuda propiedad,Herencia,San Lorenzo de El Escorial,100,2005," 80,000 € ",
+58,Urbano,Nuda propiedad,Herencia,San Lorenzo de El Escorial,100,2005,"80,000.00 €",
 59,Urbano,Pleno dominio,Compraventa,Madrid,100,22/10/2007,"38,550.38 €",
-59,Urbano,Pleno dominio,Compraventa,Armenia-Quindío,50,20/4/2009,"20,814.74 €",140.000.000 pesos colombianos (100%)
-59,Rústico,Pleno dominio,Donación,Montenegro-Quindío,6.66,26/07/2003,61.90 €,208.200 pesos colombianos 
-59,Rústico,Pleno dominio,Donación,Montenegro-Quindío,100,30/12/2011,823.61 €,2.769.800 pesos colombianos 
-60,Urbano,Pleno dominio,Compraventa,Madrid,100,28/1/2016,"67,500.00 €",
-60,Urbano,Pleno dominio,Compraventa,Bogotá,100,5/12/2012,"39,598.78 €",133.000.000 pesos colombianos 
+59,Urbano,Pleno dominio,Compraventa,Armenia-Quindío,50,20/04/2009,"20,814.74 €",140.000.000 pesos colombianos (100%)
+59,Rústico,Pleno dominio,Donación,Montenegro-Quindío,6.66,26/07/2003,61.90 €,208.200 pesos colombianos
+59,Rústico,Pleno dominio,Donación,Montenegro-Quindío,100,30/12/2011,823.61 €,2.769.800 pesos colombianos
+60,Urbano,Pleno dominio,Compraventa,Madrid,100,28/01/2016,"67,500.00 €",
+60,Urbano,Pleno dominio,Compraventa,Bogotá,100,05/12/2012,"39,598.78 €",133.000.000 pesos colombianos
+61,Urbano,Pleno dominio,Compraventa,SANTJUAN DESPI. BARCELONA,100,00/00/2006,"72,148.08 €",Apartamento
+61,Urbano,Pleno dominio,Compraventa,SANTJUAN DESPI. BARCELONA,100,00/00/2006,"8,718.15 €",Parking
+61,Urbano,Pleno dominio,Compraventa,SANTJUAN DESPI. BARCELONA,100,00/00/2006,"7,425.80 €",Trastero
