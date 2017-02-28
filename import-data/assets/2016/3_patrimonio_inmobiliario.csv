@@ -1,136 +1,136 @@
 CodigoPersona,Clase,Tipo de derecho,Título de adquisición ,Municipio,% Participación,Fecha de adquisición,Valor catastral,Observaciones
-1,Urbano,,,Madrid,5,,"4,081.78 €",
-1,Urbano,,,Salamanca,50,1978,"1,128.47 €",
-1,Urbano,,,Salamanca,50,1978,"1,839.13 €",
-1,Urbano,,,Salamanca,50,1978,"3,617.72 €",
-1,Urbano,,,Salamanca,50,1978,696.92 €,
-1,Urbano,,,Salamanca,50,1978,"1,328.11 €",
-1,Urbano,,,Salamanca,50,1978,900.35 €,
-1,Urbano,,,Salamanca,50,1978,510.99 €,
-1,Urbano,,,Salamanca,50,1978,"1,109.85 €",
-1,Urbano,,,Salamanca,50,1978,"17,344.41 €",
-1,Urbano,,,Salamanca,50,1978,"1,896.38 €",
-1,Rústico,,,Salamanca,50,1978,"17,404.46 €",
-1,Rústico,,,Salamanca,50,1978,"51,246.97 €",
-2,Urbano,Pleno dominio,Compraventa,Madrid,50,2002,"170,584.90 €",
-2,Urbano,Pleno dominio,Compraventa,Madrid,50,2002,"14,194.54 €",
-2,Urbano,Pleno dominio,Compraventa,Madrid,50,2002,"12,010.73 €",
-2,Rústico,Pleno dominio,Donación,Ciudad Real,20,1987,"179,981.00 €",
-3,Urbano,Pleno dominio,Herencia,Madrid,10,2012,"318,705.00 €",
-3,Urbano,Pleno dominio,Herencia,Madrid,5,2012,"252,111.00 €",
-3,Urbano,Pleno dominio,Compraventa,Madrid,100,2008,"149,593.00 €",
-4,Urbano,,,Madrid,50,1998,"273,800.00 €",
-4,Urbano,,,Segovia,50,1991,"25,800.00 €",
-4,Urbano,,,Santander,100,2003,"26,548.00 €",
-5,Urbano,Pleno dominio,,Madrid,50,01/07/2013,"155,168.00 €",Vivienda habitual
-5,Urbano,Pleno dominio,,Madrid,100,01/02/2006,"85,705.00 €",Apartamento alquilado
-5,Urbano,Pleno dominio,,Madrid,33,01/12/2003,"122,888.00 €",Vivienda materna
-5,Urbano,Pleno dominio,,Cubelo de Sanabria (Zamora),100,01/04/1990,"4,472.00 €",Sótano bodega
+1,Urbano,,,Madrid,5,,"4.081,78 €",
+1,Urbano,,,Salamanca,50,1978,"1.128,47 €",
+1,Urbano,,,Salamanca,50,1978,"1.839,13 €",
+1,Urbano,,,Salamanca,50,1978,"3.617,72 €",
+1,Urbano,,,Salamanca,50,1978,"696,92 €",
+1,Urbano,,,Salamanca,50,1978,"1.328,11 €",
+1,Urbano,,,Salamanca,50,1978,"900,35 €",
+1,Urbano,,,Salamanca,50,1978,"510,99 €",
+1,Urbano,,,Salamanca,50,1978,"1.109,85 €",
+1,Urbano,,,Salamanca,50,1978,"17.344,41 €",
+1,Urbano,,,Salamanca,50,1978,"1.896,38 €",
+1,Rústico,,,Salamanca,50,1978,"17.404,46 €",
+1,Rústico,,,Salamanca,50,1978,"51.246,97 €",
+2,Urbano,Pleno dominio,Compraventa,Madrid,50,2002,"170.584,90 €",
+2,Urbano,Pleno dominio,Compraventa,Madrid,50,2002,"14.194,54 €",
+2,Urbano,Pleno dominio,Compraventa,Madrid,50,2002,"12.010,73 €",
+2,Rústico,Pleno dominio,Donación,Ciudad Real,20,1987,"179.981,00 €",
+3,Urbano,Pleno dominio,Herencia,Madrid,10,2012,"318.705,00 €",
+3,Urbano,Pleno dominio,Herencia,Madrid,5,2012,"252.111,00 €",
+3,Urbano,Pleno dominio,Compraventa,Madrid,100,2008,"149.593,00 €",
+4,Urbano,,,Madrid,50,1998,"273.800,00 €",
+4,Urbano,,,Segovia,50,1991,"25.800,00 €",
+4,Urbano,,,Santander,100,2003,"26.548,00 €",
+5,Urbano,Pleno dominio,,Madrid,50,01/07/2013,"155.168,00 €",Vivienda habitual
+5,Urbano,Pleno dominio,,Madrid,100,01/02/2006,"85.705,00 €",Apartamento alquilado
+5,Urbano,Pleno dominio,,Madrid,33,01/12/2003,"122.888,00 €",Vivienda materna
+5,Urbano,Pleno dominio,,Cubelo de Sanabria (Zamora),100,01/04/1990,"4.472,00 €",Sótano bodega
 5,,,,Cubelo de Sanabria (Zamora) Derechos sucesorios pendientes,,,,
-6,Urbano,Pleno dominio,Compraventa,Madrid,100,05/04/2001,"249,255.00 €",
-7,Urbano,Pleno dominio,Compraventa,Madrid,50,1995,"178,045.88 €",
+6,Urbano,Pleno dominio,Compraventa,Madrid,100,05/04/2001,"249.255,00 €",
+7,Urbano,Pleno dominio,Compraventa,Madrid,50,1995,"178.045,88 €",
 7,Urbano,Derecho real de uso y disfrute,Compraventa,Madrid,100,1991,,Plaza P.A.R.
-8,Urbano,Pleno dominio,Compraventa,Soto del Real,100,23/10/2001,"61,930.70 €",
+8,Urbano,Pleno dominio,Compraventa,Soto del Real,100,23/10/2001,"61.930,70 €",
 8,Urbano,Nuda propiedad,Compraventa,Madrid,100,26/05/1998,,
-8,Urbano,Pleno dominio,Donación,Cedeira (A Coruña),100,28/12/2015,"29,859.74 €",
-9,Urbano,Pleno dominio,Herencia,Barcelona,33.3,1993,,
-9,Urbano,Pleno dominio,Compraventa,Madrid,100,2016,"96,467.00 €",
-10,Urbano,Pleno dominio,Compraventa,Madrid,50,1999,"101,522.00 €",
-10,Urbano,Pleno dominio,Compraventa,Madrid,50,2004,"124,166.00 €",
-10,Urbano,Pleno dominio,Compraventa,Madrid,50,2014,"100,540.00 €",
-10,Urbano,Pleno dominio,Compraventa,Madrid,50,2002,"42,892.00 €",
-10,Urbano,Pleno dominio,Compraventa,Madrid,50,2002,"8,080.00 €",
-10,Urbano,Nuda propiedad,Herencia,Calpe,17,2012,"1,401.00 €",
-10,Urbano,Nuda propiedad,Herencia,Madrid,33,2012,"20,840.00 €",
-10,Urbano,Nuda propiedad,Herencia,Madrid,17,2012,"17,028.00 €",
-11,Urbano,Pleno dominio,Compraventa,Madrid,50,2004,"473,000.00 €",
-11,Urbano,Pleno dominio,Herencia,Madrid,12.5,2002,"251,000.00 €",
-11,Urbano,Pleno dominio,Herencia,Navarra,12.5,2002,"33,000.00 €",
-11,Urbano,Pleno dominio,Herencia,Baleares,12.5,2002,"32,000.00 €",
-11,Rústico,Pleno dominio,Herencia,Navarra,12.5,2002,"10,000.00 €",
-12,Urbano,Pleno dominio,Compraventa,Madrid,100,1997,"196,667.42 €",
-12,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Provincia de Zamora,2,1989,"4,200.00 €",
-12,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Provincia de Zamora,8,1989,"26,000.00 €",
-12,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Provincia de Zamora,20,1989,"8,550.00 €",
-12,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Provincia de Zamora,20,1989,"5,670.00 €",
-13,Urbano,Nuda propiedad,Herencia,Salamanca,20,01/11/2013,"4,828.83 €",
-13,Rústico,Nuda propiedad,Herencia,Salamanca,20,01/11/2013,2.76 €,
-14,Urbano,Pleno dominio,Compraventa,Madrid,50,15/12/2011,"235,349.00 €",
-14,Urbano,Pleno dominio,Compraventa,Madrid,50,19/12/2003,"135,149.00 €",
-15,Urbano,Pleno dominio,Compraventa,Madrid,50,28/12/1999,"67,970.00 €",Vivienda
-15,Urbano,Pleno dominio,Compraventa,Madrid,50,15/02/2007,"8,209.00 €",Plaza de garaje
-15,Urbano,Pleno dominio,Compraventa,Madrid,50,15/02/2007,"8,209.00 €",Plaza de garaje
-16,Urbano,Nuda propiedad,Herencia,Cádiz,100,2012,"195,000.00 €",
-17,Urbano,Pleno dominio,Compraventa,Madrid,50,06/04/2009,"147,728.00 €",
-17,Urbano,Pleno dominio,Compraventa,"Pareja, Guadalajara",100,07/10/2014,"45,519.00 €",
-17,Urbano,Pleno dominio,Compraventa,Madrid,100,16/04/2010,"9,115.00 €",
-17,Urbano,Pleno dominio,Compraventa,Madrid,100,19/10/2012,"10,931.00 €",
-17,Urbano,Pleno dominio,Compraventa,"Pareja, Guadalajara",100,15/07/2016,"21,000.00 €",
-18,Urbano,Pleno dominio,Compraventa,Madrid,100,27/07/1999,"114,000.00 €",
-18,Urbano,Pleno dominio,Compraventa,Madrid,100,27/07/1999,"18,000.00 €",
-18,Urbano,Pleno dominio,Compraventa,Madrid,100,03/08/2012,"65,000.00 €",
-18,Urbano,Pleno dominio,Compraventa,Madrid,100,20/12/2013,"70,000.00 €",
-18,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Donación,Peñíscola,50,2005,"244,000.00 €",
-19,Urbano,Pleno dominio,Compraventa,Madrid,50,2007,"246,920.98 €",Piso
-19,Urbano,Pleno dominio,Compraventa,Madrid,50,2007,"9,215.82 €",Plaza garaje
-19,Urbano,Nuda propiedad,Herencia,Madrid,2,2008,"67,205.28 €",Piso
-19,Urbano,Nuda propiedad,Herencia,Provincia de Ávila,4,2008,"54,248.74 €",Casa unifamiliar
-19,Urbano,Nuda propiedad,Herencia,Provincia de Ávila,4,2008,"13,558.98 €",Casa unifamiliar
+8,Urbano,Pleno dominio,Donación,Cedeira (A Coruña),100,28/12/2015,"29.859,74 €",
+9,Urbano,Pleno dominio,Herencia,Barcelona,"33,3",1993,,
+9,Urbano,Pleno dominio,Compraventa,Madrid,100,2016,"96.467,00 €",
+10,Urbano,Pleno dominio,Compraventa,Madrid,50,1999,"101.522,00 €",
+10,Urbano,Pleno dominio,Compraventa,Madrid,50,2004,"124.166,00 €",
+10,Urbano,Pleno dominio,Compraventa,Madrid,50,2014,"100.540,00 €",
+10,Urbano,Pleno dominio,Compraventa,Madrid,50,2002,"42.892,00 €",
+10,Urbano,Pleno dominio,Compraventa,Madrid,50,2002,"8.080,00 €",
+10,Urbano,Nuda propiedad,Herencia,Calpe,17,2012,"1.401,00 €",
+10,Urbano,Nuda propiedad,Herencia,Madrid,33,2012,"20.840,00 €",
+10,Urbano,Nuda propiedad,Herencia,Madrid,17,2012,"17.028,00 €",
+11,Urbano,Pleno dominio,Compraventa,Madrid,50,2004,"473.000,00 €",
+11,Urbano,Pleno dominio,Herencia,Madrid,"12,5",2002,"251.000,00 €",
+11,Urbano,Pleno dominio,Herencia,Navarra,"12,5",2002,"33.000,00 €",
+11,Urbano,Pleno dominio,Herencia,Baleares,"12,5",2002,"32.000,00 €",
+11,Rústico,Pleno dominio,Herencia,Navarra,"12,5",2002,"10.000,00 €",
+12,Urbano,Pleno dominio,Compraventa,Madrid,100,1997,"196.667,42 €",
+12,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Provincia de Zamora,2,1989,"4.200,00 €",
+12,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Provincia de Zamora,8,1989,"26.000,00 €",
+12,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Provincia de Zamora,20,1989,"8.550,00 €",
+12,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Provincia de Zamora,20,1989,"5.670,00 €",
+13,Urbano,Nuda propiedad,Herencia,Salamanca,20,01/11/2013,"4.828,83 €",
+13,Rústico,Nuda propiedad,Herencia,Salamanca,20,01/11/2013,"2,76 €",
+14,Urbano,Pleno dominio,Compraventa,Madrid,50,15/12/2011,"235.349,00 €",
+14,Urbano,Pleno dominio,Compraventa,Madrid,50,19/12/2003,"135.149,00 €",
+15,Urbano,Pleno dominio,Compraventa,Madrid,50,28/12/1999,"67.970,00 €",Vivienda
+15,Urbano,Pleno dominio,Compraventa,Madrid,50,15/02/2007,"8.209,00 €",Plaza de garaje
+15,Urbano,Pleno dominio,Compraventa,Madrid,50,15/02/2007,"8.209,00 €",Plaza de garaje
+16,Urbano,Nuda propiedad,Herencia,Cádiz,100,2012,"195.000,00 €",
+17,Urbano,Pleno dominio,Compraventa,Madrid,50,06/04/2009,"147.728,00 €",
+17,Urbano,Pleno dominio,Compraventa,"Pareja, Guadalajara",100,07/10/2014,"45.519,00 €",
+17,Urbano,Pleno dominio,Compraventa,Madrid,100,16/04/2010,"9.115,00 €",
+17,Urbano,Pleno dominio,Compraventa,Madrid,100,19/10/2012,"10.931,00 €",
+17,Urbano,Pleno dominio,Compraventa,"Pareja, Guadalajara",100,15/07/2016,"21.000,00 €",
+18,Urbano,Pleno dominio,Compraventa,Madrid,100,27/07/1999,"114.000,00 €",
+18,Urbano,Pleno dominio,Compraventa,Madrid,100,27/07/1999,"18.000,00 €",
+18,Urbano,Pleno dominio,Compraventa,Madrid,100,03/08/2012,"65.000,00 €",
+18,Urbano,Pleno dominio,Compraventa,Madrid,100,20/12/2013,"70.000,00 €",
+18,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Donación,Peñíscola,50,2005,"244.000,00 €",
+19,Urbano,Pleno dominio,Compraventa,Madrid,50,2007,"246.920,98 €",Piso
+19,Urbano,Pleno dominio,Compraventa,Madrid,50,2007,"9.215,82 €",Plaza garaje
+19,Urbano,Nuda propiedad,Herencia,Madrid,2,2008,"67.205,28 €",Piso
+19,Urbano,Nuda propiedad,Herencia,Provincia de Ávila,4,2008,"54.248,74 €",Casa unifamiliar
+19,Urbano,Nuda propiedad,Herencia,Provincia de Ávila,4,2008,"13.558,98 €",Casa unifamiliar
 19,Rústico,Nuda propiedad,Herencia,Provincia de Ávila,4,2008,,Varias fincas sin repartir
-19,Urbano,Pleno dominio,Compraventa,Provincia de Ávila,50,2010,"43,930.67 €",Casa unifamiliar
+19,Urbano,Pleno dominio,Compraventa,Provincia de Ávila,50,2010,"43.930,67 €",Casa unifamiliar
 19,Urbano,Nuda propiedad,Herencia,Provincia de Ávila,25,2015,,Casa unifamiliar
 19,Rústico,Nuda propiedad,Herencia,Provincia de Ávila,25,2015,,Varias fincas sin repartir
-20,Urbano,Pleno dominio,Herencia,MADRID,50,1998,"195,645.26 €",Compraventa / Herencia
-20,Urbano,Pleno dominio,Compraventa,LA ADRADA (AVILA),100,2005,"42,848.03 €",
-21,Urbano,Pleno dominio,Compraventa,Torrevieja,50,1985,"50,992.75 €",
-21,Urbano,Pleno dominio,Compraventa,Madrid,50,1996,"201,024.94 €",
-21,Urbano,Pleno dominio,Compraventa,Madrid,50,1996,"17,665.26 €",
-21,Urbano,Pleno dominio,Compraventa,Madrid,50,2004,"17,665.26 €",
-22,Urbano,Pleno dominio,Otros,Madrid,100,23/09/2010,"198,851.63 €","Tengo mi domicilio familiar en ambas fincas, de las que soy dueña al 100 por 100 en uno de los casos y en una tercera parte en el otro caso y que están unidas. Aparece como fecha de adquisición de la finca que me pertenece al 100 por 100 el día 23 de septiembre de 2010, por ser ésta la fecha en la que se me adjudicó este bien en la liquidación de mi sociedad de gananciales, si bien pertenecía a dicha sociedad desde que mi marido y yo adquirimos la vivienda, el día 27 de agosto de 1981."
-22,Urbano,Pleno dominio,Compraventa,Madrid,33.33,02/02/2009,"66,283.87 €","Tengo mi domicilio familiar en ambas fincas, de las que soy dueña al 100 por 100 en uno de los casos y en una tercera parte en el otro caso y que están unidas. Aparece como fecha de adquisición de la finca que me pertenece al 100 por 100 el día 23 de septiembre de 2010, por ser ésta la fecha en la que se me adjudicó este bien en la liquidación de mi sociedad de gananciales, si bien pertenecía a dicha sociedad desde que mi marido y yo adquirimos la vivienda, el día 27 de agosto de 1981."
-22,Urbano,Pleno dominio,Otros,El Espinar (Segovia),100,07/10/2011,"131,604.10 €","Aunque son dos fincas registrales independientes, forman físicamente una sola y giran bajo una misma referencia catastral, con un valor catastral único y conjunto para ambas"
-22,Urbano,Pleno dominio,Otros,El Espinar (Segovia),100,07/10/2011,"131,604.10 €","Aunque son dos fincas registrales independientes, forman físicamente una sola y giran bajo una misma referencia catastral, con un valor catastral único y conjunto para ambas"
-24,Urbano,,,Madrid,50,09/11/1993,"119,159.00 €",
-24,Urbano,,,"Cubells, Lleida",50,24/08/2005,"23,000.00 €",Revisado
-25,Urbano,Pleno dominio,Compraventa,Madrid,50,26/04/2003,"76,220.08 €",Pendiente liquidación sociedad de gananciales
-27,Urbano,Pleno dominio,Herencia,Madrid,25,02/08/2015,"54,347.46 €",
-27,Urbano,Pleno dominio,Herencia,Castellón,25,02/08/2015,"41,851.71 €",
-28,Urbano,Pleno dominio,Compraventa,Madrid,50,01/06/1997,"134,445.74 €",
-29,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Madrid,40.83,12/05/2005,"111,825.40 €",
-29,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Madrid,33.33,07/07/2006,"111,825.40 €",
+20,Urbano,Pleno dominio,Herencia,MADRID,50,1998,"195.645,26 €",Compraventa / Herencia
+20,Urbano,Pleno dominio,Compraventa,LA ADRADA (AVILA),100,2005,"42.848,03 €",
+21,Urbano,Pleno dominio,Compraventa,Torrevieja,50,1985,"50.992,75 €",
+21,Urbano,Pleno dominio,Compraventa,Madrid,50,1996,"201.024,94 €",
+21,Urbano,Pleno dominio,Compraventa,Madrid,50,1996,"17.665,26 €",
+21,Urbano,Pleno dominio,Compraventa,Madrid,50,2004,"17.665,26 €",
+22,Urbano,Pleno dominio,Otros,Madrid,100,23/09/2010,"198.851,63 €","Tengo mi domicilio familiar en ambas fincas, de las que soy dueña al 100 por 100 en uno de los casos y en una tercera parte en el otro caso y que están unidas. Aparece como fecha de adquisición de la finca que me pertenece al 100 por 100 el día 23 de septiembre de 2010, por ser ésta la fecha en la que se me adjudicó este bien en la liquidación de mi sociedad de gananciales, si bien pertenecía a dicha sociedad desde que mi marido y yo adquirimos la vivienda, el día 27 de agosto de 1981."
+22,Urbano,Pleno dominio,Compraventa,Madrid,"33,33",02/02/2009,"66.283,87 €","Tengo mi domicilio familiar en ambas fincas, de las que soy dueña al 100 por 100 en uno de los casos y en una tercera parte en el otro caso y que están unidas. Aparece como fecha de adquisición de la finca que me pertenece al 100 por 100 el día 23 de septiembre de 2010, por ser ésta la fecha en la que se me adjudicó este bien en la liquidación de mi sociedad de gananciales, si bien pertenecía a dicha sociedad desde que mi marido y yo adquirimos la vivienda, el día 27 de agosto de 1981."
+22,Urbano,Pleno dominio,Otros,El Espinar (Segovia),100,07/10/2011,"131.604,10 €","Aunque son dos fincas registrales independientes, forman físicamente una sola y giran bajo una misma referencia catastral, con un valor catastral único y conjunto para ambas"
+22,Urbano,Pleno dominio,Otros,El Espinar (Segovia),100,07/10/2011,"131.604,10 €","Aunque son dos fincas registrales independientes, forman físicamente una sola y giran bajo una misma referencia catastral, con un valor catastral único y conjunto para ambas"
+24,Urbano,,,Madrid,50,09/11/1993,"119.159,00 €",
+24,Urbano,,,"Cubells, Lleida",50,24/08/2005,"23.000,00 €",Revisado
+25,Urbano,Pleno dominio,Compraventa,Madrid,50,26/04/2003,"76.220,08 €",Pendiente liquidación sociedad de gananciales
+27,Urbano,Pleno dominio,Herencia,Madrid,25,02/08/2015,"54.347,46 €",
+27,Urbano,Pleno dominio,Herencia,Castellón,25,02/08/2015,"41.851,71 €",
+28,Urbano,Pleno dominio,Compraventa,Madrid,50,01/06/1997,"134.445,74 €",
+29,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Madrid,"40,83",12/05/2005,"111.825,40 €",
+29,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Compraventa,Madrid,"33,33",07/07/2006,"111.825,40 €",
 31,Urbano,Pleno dominio,Compraventa,Madrid,100,29/09/2005,,
-32,Urbano,Pleno dominio,Compraventa,Madrid,50,01/09/2001,"133,811.23 €",
+32,Urbano,Pleno dominio,Compraventa,Madrid,50,01/09/2001,"133.811,23 €",
 32,Urbano,Nuda propiedad,Herencia,Madrid,25,1968,,
-35,Urbano,Pleno dominio,Compraventa,Madrid,50,09/07/2000,"61,085.12 €",
-35,Urbano,Pleno dominio,Compraventa,Madrid,16.6,07/07/2006,"53,703.70 €",
-36,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Herencia,Barcelona,50,30/12/2006,"211,691.00 €",
-36,Urbano,Pleno dominio,Herencia,El Masnou,100,30/12/2006,"53,016.00 €",
-36,Urbano,Pleno dominio,Compraventa,Madrid,100,15/12/2000,"70,578.00 €",
+35,Urbano,Pleno dominio,Compraventa,Madrid,50,09/07/2000,"61.085,12 €",
+35,Urbano,Pleno dominio,Compraventa,Madrid,"16,6",07/07/2006,"53.703,70 €",
+36,Urbano,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Herencia,Barcelona,50,30/12/2006,"211.691,00 €",
+36,Urbano,Pleno dominio,Herencia,El Masnou,100,30/12/2006,"53.016,00 €",
+36,Urbano,Pleno dominio,Compraventa,Madrid,100,15/12/2000,"70.578,00 €",
 36,Urbano,Pleno dominio,Compraventa,Madrid,100,15/12/2000,,
-36,Urbano,Pleno dominio,Donación,Altafulla,100,10/03/1986,"34,940.00 €",
+36,Urbano,Pleno dominio,Donación,Altafulla,100,10/03/1986,"34.940,00 €",
 36,Urbano,Pleno dominio,Donación,Altafulla,100,10/03/1986,,
-36,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Herencia,Altafulla,50,30/12/2006,"113,368.00 €",
+36,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Herencia,Altafulla,50,30/12/2006,"113.368,00 €",
 36,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Herencia,Altafulla,50,30/12/2006,,
 36,Rústico,"Multipropiedad, propiedad a tiempo parcial o fórmulas similares, con titularidad parcial del  bien",Herencia,Altafulla,50,30/12/2006,,
-37,Urbano,Pleno dominio,,Madrid,50,19/10/2000,"119,375.67 €",
-37,Urbano,Pleno dominio,,Madrid,50,02/11/2000,"4,248.30 €",
-37,Urbano,Pleno dominio,,Madrid,50,19/10/2000,"54,507.60 €",
-38,Urbano,Pleno dominio,Compraventa,Madrid,100,16/07/2002,"47,982.21 €",
-39,Urbano,Pleno dominio,Compraventa,Madrid,50,1998,"128,920.86 €",
-39,Urbano,Pleno dominio,Compraventa,La Granja,50,2007,"20,549.46 €",
-39,Urbano,Pleno dominio,Compraventa,La Granja,50,2007,"3,011.23 €",Plaza de Parking
-39,Urbano,Pleno dominio,Compraventa,Madrid,50,2012,"65,425.58 €",
-39,Urbano,Pleno dominio,Compraventa,Tres Cantos,14.28,2010,"181,222.01 €",
-40,Urbano,Pleno dominio,Compraventa,Madrid,50,31/03/2001,"47,864.68 €",
-40,Urbano,Nuda propiedad,Herencia,Madrid,16.66,,"49,338.54 €",
-40,Rústico,Nuda propiedad,Herencia,Ossa de Montiel,16.66,,"12,826.07 €",
-41,Urbano,Pleno dominio,Compraventa,Madrid,50,27/05/2016,"161,912.80 €",El valor corresponde al valor de tasación hipotecaria
+37,Urbano,Pleno dominio,,Madrid,50,19/10/2000,"119.375,67 €",
+37,Urbano,Pleno dominio,,Madrid,50,02/11/2000,"4.248,30 €",
+37,Urbano,Pleno dominio,,Madrid,50,19/10/2000,"54.507,60 €",
+38,Urbano,Pleno dominio,Compraventa,Madrid,100,16/07/2002,"47.982,21 €",
+39,Urbano,Pleno dominio,Compraventa,Madrid,50,1998,"128.920,86 €",
+39,Urbano,Pleno dominio,Compraventa,La Granja,50,2007,"20.549,46 €",
+39,Urbano,Pleno dominio,Compraventa,La Granja,50,2007,"3.011,23 €",Plaza de Parking
+39,Urbano,Pleno dominio,Compraventa,Madrid,50,2012,"65.425,58 €",
+39,Urbano,Pleno dominio,Compraventa,Tres Cantos,"14,28",2010,"181.222,01 €",
+40,Urbano,Pleno dominio,Compraventa,Madrid,50,31/03/2001,"47.864,68 €",
+40,Urbano,Nuda propiedad,Herencia,Madrid,"16,66",,"49.338,54 €",
+40,Rústico,Nuda propiedad,Herencia,Ossa de Montiel,"16,66",,"12.826,07 €",
+41,Urbano,Pleno dominio,Compraventa,Madrid,50,27/05/2016,"161.912,80 €",El valor corresponde al valor de tasación hipotecaria
 42,Urbano,Pleno dominio,Herencia,Madrid,100,17/05/1999,,
 42,Urbano,Nuda propiedad,Herencia,Madrid,100,17/05/1999,,
 42,Urbano,Nuda propiedad,Herencia,Madrid,100,17/05/1999,,
 42,Urbano,Nuda propiedad,Herencia,Madrid,100,17/05/1999,,
 42,Urbano,Nuda propiedad,Herencia,Madrid,100,17/05/1999,,
-43,Urbano,Pleno dominio,Compraventa,Madrid,100,18/12/1998,"90,702.39 €",
+43,Urbano,Pleno dominio,Compraventa,Madrid,100,18/12/1998,"90.702,39 €",
 43,Urbano,Pleno dominio,Herencia,Guadalajara,12,01/07/2004,,
 43,Urbano,Pleno dominio,Herencia,"Mondéjar, Guadalajara",12,01/07/2004,,
 43,Urbano,Pleno dominio,Herencia,"Mondéjar, Guadalajara",12,01/07/2004,,
@@ -139,31 +139,31 @@ CodigoPersona,Clase,Tipo de derecho,Título de adquisición ,Municipio,% Partici
 43,Rústico,Pleno dominio,Herencia,"Mondéjar, Guadalajara",12,01/07/2004,,
 43,Rústico,Pleno dominio,Herencia,"Mondéjar, Guadalajara",12,01/07/2004,,
 43,Rústico,Pleno dominio,Herencia,"Mondéjar, Guadalajara",12,01/07/2004,,
-44,Urbano,Pleno dominio,Compraventa,A Coruña - Oleiros,50,05/05/2003,"43,988.07 €",
-44,Urbano,Pleno dominio,Compraventa,A Coruña,50,23/06/2009,"97,267.46 €",
-44,Urbano,Pleno dominio,Compraventa,A Coruña,50,05/05/1993,"72,221.65 €",
-45,Urbano,Pleno dominio,Compraventa,Madrid,100,28/09/2002,"99,799.73 €",
-46,Urbano,Pleno dominio,Compraventa,Madrid,100,26/05/2016,"101,151.70 €",
-46,Urbano,Pleno dominio,Compraventa,Madrid,100,26/05/2016,"9,886.71 €",
-48,Urbano,Pleno dominio,Compraventa,Madrid,100,22/06/2009,"108,900.62 €",
-48,Urbano,Pleno dominio,Compraventa,Madrid,100,22/06/2009,"19,548.26 €",
-49,Urbano,Pleno dominio,Compraventa,Madrid,50,01/09/2003,"99,833.59 €",Vivienda habitual
-50,Urbano,Pleno dominio,Compraventa,Madrid,100,1993,"161,715.89 €",Vivienda
-50,Urbano,Pleno dominio,Compraventa,Madrid,100,2003,"10,966.08 €",Garaje
-50,Urbano,Nuda propiedad,Compraventa,Uceda (Guadalajara),25,2001,"135,440.19 €",Vivienda
-51,Urbano,Pleno dominio,Compraventa,Madrid,50,04/08/2006,"102,635.00 €",
-51,Urbano,Pleno dominio,Compraventa,Villanueva del Pardillo,50,15/01/2004,"64,701.00 €",
-51,Urbano,Pleno dominio,Compraventa,Madrid,33,23/04/2010,"140,813.00 €",
-51,Urbano,Pleno dominio,Compraventa,Madrid,33,04/04/2012,"104,204.00 €",
-52,Urbano,Pleno dominio,Compraventa,Madrid,100,24/07/1990,"19,780.86 €",
-52,Urbano,Pleno dominio,Compraventa,Madrid,50,14/07/2004,"39,853.69 €",
-52,Urbano,Pleno dominio,Compraventa,Madrid,50,27/12/2006,"35,172.12 €",
-52,Urbano,Pleno dominio,Compraventa,Madrid,100,04/06/1996,"130,716.67 €",
-55,Urbano,Nuda propiedad,Donación,"Lisboa, Portugal",16.3,13/07/2012,,
+44,Urbano,Pleno dominio,Compraventa,A Coruña - Oleiros,50,05/05/2003,"43.988,07 €",
+44,Urbano,Pleno dominio,Compraventa,A Coruña,50,23/06/2009,"97.267,46 €",
+44,Urbano,Pleno dominio,Compraventa,A Coruña,50,05/05/1993,"72.221,65 €",
+45,Urbano,Pleno dominio,Compraventa,Madrid,100,28/09/2002,"99.799,73 €",
+46,Urbano,Pleno dominio,Compraventa,Madrid,100,26/05/2016,"101.151,70 €",
+46,Urbano,Pleno dominio,Compraventa,Madrid,100,26/05/2016,"9.886,71 €",
+48,Urbano,Pleno dominio,Compraventa,Madrid,100,22/06/2009,"108.900,62 €",
+48,Urbano,Pleno dominio,Compraventa,Madrid,100,22/06/2009,"19.548,26 €",
+49,Urbano,Pleno dominio,Compraventa,Madrid,50,01/09/2003,"99.833,59 €",Vivienda habitual
+50,Urbano,Pleno dominio,Compraventa,Madrid,100,1993,"161.715,89 €",Vivienda
+50,Urbano,Pleno dominio,Compraventa,Madrid,100,2003,"10.966,08 €",Garaje
+50,Urbano,Nuda propiedad,Compraventa,Uceda (Guadalajara),25,2001,"135.440,19 €",Vivienda
+51,Urbano,Pleno dominio,Compraventa,Madrid,50,04/08/2006,"102.635,00 €",
+51,Urbano,Pleno dominio,Compraventa,Villanueva del Pardillo,50,15/01/2004,"64.701,00 €",
+51,Urbano,Pleno dominio,Compraventa,Madrid,33,23/04/2010,"140.813,00 €",
+51,Urbano,Pleno dominio,Compraventa,Madrid,33,04/04/2012,"104.204,00 €",
+52,Urbano,Pleno dominio,Compraventa,Madrid,100,24/07/1990,"19.780,86 €",
+52,Urbano,Pleno dominio,Compraventa,Madrid,50,14/07/2004,"39.853,69 €",
+52,Urbano,Pleno dominio,Compraventa,Madrid,50,27/12/2006,"35.172,12 €",
+52,Urbano,Pleno dominio,Compraventa,Madrid,100,04/06/1996,"130.716,67 €",
+55,Urbano,Nuda propiedad,Donación,"Lisboa, Portugal","16,3",13/07/2012,,
 56,Urbano,Pleno dominio,Compraventa,Madrid,50,06/06/2014,,
-56,Urbano,Nuda propiedad,Herencia,Madrid,12.5,14/05/2015,,
-56,Urbano,Nuda propiedad,Herencia,Zamora,12.5,14/05/2015,,
-56,Urbano,Nuda propiedad,Herencia,San Román de los Montes (Toledo),12.5,14/05/2015,,
+56,Urbano,Nuda propiedad,Herencia,Madrid,"12,5",14/05/2015,,
+56,Urbano,Nuda propiedad,Herencia,Zamora,"12,5",14/05/2015,,
+56,Urbano,Nuda propiedad,Herencia,San Román de los Montes (Toledo),"12,5",14/05/2015,,
 57,Urbano,Pleno dominio,Compraventa,Madrid,100,15/01/2005,,Vivienda
 57,Urbano,Pleno dominio,Compraventa,Madrid,100,15/01/2005,,Garaje
 57,Urbano,Pleno dominio,Compraventa,Madrid,50,01/09/2015,,"Vivienda. En relación con el patrimonio inmobiliario, se ha producido la enajenación de una vivienda en Madrid y la compra de una nueva en el año 2015, lo que ha propiciado variaciones del apartado correspondiente a deudas, habiéndose producido cancelación de un préstamo por importe de 496.479,35 euros, del que yo era titular en un 50%, y la incorporación de uno nuevo, por importe a mi imputable de 279.278 euros, debiéndose tener en cuenta también la venta de una acción del Club de Golf, cuyos ingresos explican parte de la variación patrimonial."
