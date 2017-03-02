@@ -31,7 +31,7 @@ CodigoPersona,Clase,Descripción,Fecha de adquisición,"Número, cuantía o valo
 10,"Otros bienes patrimoniales (derechos derivados de la propiedad intelectual o industrial, pagarés, etc.)","MAD VIDEO SERIE A (1%) Angel Investor, 87.878 participaciones",2012,"33.571,00 €"
 10,"Otros bienes patrimoniales (derechos derivados de la propiedad intelectual o industrial, pagarés, etc.)","MAS CONSULTING S (11%) Angel Investor, 14 participaciones",2011,"87.500,00 €"
 10,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",Póliza. Seguro de vida. Cuota anual,2014,"1.468,00 €"
-11,Acciones y participaciones de todo tipo en sociedades e instituciones de inversión colectiva,Acciones de empresas ASYS S.L. E INTERORGAZ S.L.,,"10,00 %"
+11,Acciones y participaciones de todo tipo en sociedades e instituciones de inversión colectiva,Acciones de empresas ASYS S.L. E INTERORGAZ S.L.,,"0,10 €"
 11,Acciones y participaciones de todo tipo en sociedades e instituciones de inversión colectiva,Acciones de Adagalia Sicav,2003,"1.600.000,00 €"
 11,Acciones y participaciones de todo tipo en sociedades e instituciones de inversión colectiva,Cartera de Valores Cotizados,2002,"175.000,00 €"
 11,Acciones y participaciones de todo tipo en sociedades e instituciones de inversión colectiva,Fondos JP Morgan,2002,"3.700.000,00 €"
@@ -94,9 +94,12 @@ CodigoPersona,Clase,Descripción,Fecha de adquisición,"Número, cuantía o valo
 57,Acción Club de golf Moraleja, ,25/05/2000,
 57,Acción Club de golf Moraleja, ,25/05/2000,
 57,Acciones y participaciones de todo tipo en sociedades e instituciones de inversión colectiva,Banco Santander 600 acciones,25/06/2010,"3.921,00 €"
-58,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",Plan de pensión Bankia,nov-14," 23.436,27 € "
-58,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",Plan Universal Mutualista Colegio de Abogados,," 11.038,56 € "
-58,"Otros bienes patrimoniales (derechos derivados de la propiedad intelectual o industrial, pagarés, etc.)",Deuda a mi favor por la empresa Vercar S.A.,2005," 500.000,00 € "
+58,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",Plan de pensión Bankia,nov-14,"23.436,27 €"
+58,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",Plan Universal Mutualista Colegio de Abogados,,"11.038,56 €"
+58,"Otros bienes patrimoniales (derechos derivados de la propiedad intelectual o industrial, pagarés, etc.)",Deuda a mi favor por la empresa Vercar S.A.,2005,"500.000,00 €"
 59,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",S.V. vinculado a préstamo hipotecario ,29/11/2007,"175.000,00 €"
 59,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",S.V. Caser ,18/07/2016,"150.000,00 €"
 59,"Seguros de vida, planes de pensiones, rentas temporales y vitalicias",PÍAS LIBERTY SEGUROS ,01/05/2016,
+61,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,Comunidad de Bienes Familia Corominas ,00/00/2007,"5,49 %"
+61,Acciones y participaciones de todo tipo en sociedades  e institutciones de inversión colectiva,WANAP GOLF S.L.,04/04/2016,"55%
+"

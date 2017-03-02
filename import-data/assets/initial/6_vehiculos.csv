@@ -1,58 +1,59 @@
-CodigoPersona,Clase,Marca y modelo,Fecha de adquisición
-1,Automóviles,Toyota Verso,2013
-2,Motocicletas,Yamaha X-MAX 250CC,2013
-3,Automóviles,Mercedes Benz Clase A,2013
-4,Automóviles,Peugeot 307,2006
-4,Automóviles,Toyota Yaris,2008
-4,Automóviles,Seat Ibiza,2003
-5,Automóviles,Audi Q5 (Segunda mano),octubre 2013
-7,Automóviles,Volvo XC 60 (segunda mano),20/01/2014
-8,Automóviles,Mercedes-Benz modelo A180 CDI Elegance,03/10/2005
-9,Automóviles,Citröen DS 5,2014
-10,Automóviles,Volkswagen Passat,2001
-10,Automóviles,Volkswagen Touran,2006
-11,Automóviles,Toyota Landcruiser,2014
-11,Automóviles,Volkswagen Golf Variant,1996
-12,Automóviles,Volkswagen Golf 1.6,20/09/2000
-13,Automóviles,Volkswagen Polo ,2003
-15,Automóviles,Hyundai Elantra,06/03/2015
-16,Automóviles,Fiat 500,2010
-17,Automóviles,Chevrolet Orlando,19/12/2013
-17,Automóviles,Renault Laguna,2003
-17,Otros,SYM Quadlander 250,10/11/2006
-17,Embarcacioes,Lamberty 18 open,15/02/2009
-18,Automóviles,Smart,12/2000
-19,Automóviles,BMW 325 i 2p,1993
-19,Automóviles,Citroen Saxo 1.5 X 3p,1998
-19,Automóviles,Mercedes Benz S 320 CDI,2008
-19,Otros,Bombardier Outlander,2009
-20,Automóviles,Hyundai Terracan,2004
-21,Automóviles,Mercedes C280 (50%),1999
-21,Automóviles,Mercedes E200 (50%),2008
-21,Motocicletas,Kymco GD125 (50%),2007
-21,Motocicletas,Suzuky VL800 (50%),2014
-24,Automóviles,Peugeot 406,2000
-25,Automóviles,Dacia Sandero Stepway,24/04/2015
-28,Automóviles,Nissan Qashquai,30/10/2008
-32,Automóviles,Citroen C3 (50%),marzo 2011
-32,Automóviles,Citroen Xara Picasso (50%),septiembre 2004
-36,Automóviles,Lexus,15/11/2011
-38,Automóviles,Renault Megane,28/04/2010
-39,Automóviles,Nissan NV200,23/02/2012
-40,Automóviles,Opel Zafira Enjoy 1.9,16/08/2006
-41,Automóviles,Opel Astra 5P Club 1.6 SV II 64/55 (cvf),2015
-42,Motocicletas,Kymco Venox,01/02/2003
-43,Automóviles,Nissan Qashqai J10,19/02/2014
-44,Automóviles,Renault Scenic,30/08/2012
-45,Automóviles,BMV 116 I,01/02/2005
-46,Automóviles,Ford Focus,01/02/2008
-47,Automóviles,Seat León,07/04/2011
-49,Automóviles,Volkswagen Polo,01/07/2002
-50,Automóviles,Alfa Romeo 156,01/04/2004
-52,Automóviles,Toyota Averso Active 2000,29/12/2009
-53,Automóviles,Seat Ibiza TDI,01/03/2003
-54,Motocicletas,Scotter Honda Scoopy,18/06/2009
-56,Automóviles,Volkswagen Polo TDI,14/10/2005
-58,Automóviles,Mercedes 180,2002
-58,Automóviles,Mercedes 380,2006
-59,Automóviles,SEAT IBIZA,17/02/2012
+CodigoPersona,Clase,Marca y modelo,Fecha de adquisición,,,,,,,,,,,,,,,,,,,,,,
+1,Automóviles,Toyota Verso,2013,,,,,,,,,,,,,,,,,,,,,Inicial,Automóviles
+2,Motocicletas,Yamaha X-MAX 250CC,2013,,,,,,,,,,,,,,,,,,,,,Final,Motocicletas
+3,Automóviles,Mercedes Benz Clase A,2013,,,,,,,,,,,,,,,,,,,,,Modificación,Embarcacioes
+4,Automóviles,Peugeot 307,2006,,,,,,,,,,,,,,,,,,,,,,Aeronaves
+4,Automóviles,Toyota Yaris,2008,,,,,,,,,,,,,,,,,,,,,,Otros
+4,Automóviles,Seat Ibiza,2003,,,,,,,,,,,,,,,,,,,,,,
+5,Automóviles,Audi Q5 (Segunda mano),octubre 2013,,,,,,,,,,,,,,,,,,,,,,
+7,Automóviles,Volvo XC 60 (segunda mano),20/01/2014,,,,,,,,,,,,,,,,,,,,,,
+8,Automóviles,Mercedes-Benz modelo A180 CDI Elegance,03/10/2005,,,,,,,,,,,,,,,,,,,,,,
+9,Automóviles,Citröen DS 5,2014,,,,,,,,,,,,,,,,,,,,,,
+10,Automóviles,Volkswagen Passat,2001,,,,,,,,,,,,,,,,,,,,,,
+10,Automóviles,Volkswagen Touran,2006,,,,,,,,,,,,,,,,,,,,,,
+11,Automóviles,Toyota Landcruiser,2014,,,,,,,,,,,,,,,,,,,,,,
+11,Automóviles,Volkswagen Golf Variant,1996,,,,,,,,,,,,,,,,,,,,,,
+12,Automóviles,Volkswagen Golf 1.6,20/09/2000,,,,,,,,,,,,,,,,,,,,,,
+13,Automóviles,Volkswagen Polo ,2003,,,,,,,,,,,,,,,,,,,,,,
+15,Automóviles,Hyundai Elantra,06/03/2015,,,,,,,,,,,,,,,,,,,,,,
+16,Automóviles,Fiat 500,2010,,,,,,,,,,,,,,,,,,,,,,
+17,Automóviles,Chevrolet Orlando,19/12/2013,,,,,,,,,,,,,,,,,,,,,,
+17,Automóviles,Renault Laguna,2003,,,,,,,,,,,,,,,,,,,,,,
+17,Otros,SYM Quadlander 250,10/11/2006,,,,,,,,,,,,,,,,,,,,,,
+17,Embarcacioes,Lamberty 18 open,15/02/2009,,,,,,,,,,,,,,,,,,,,,,
+18,Automóviles,Smart,12/2000,,,,,,,,,,,,,,,,,,,,,,
+19,Automóviles,BMW 325 i 2p,1993,,,,,,,,,,,,,,,,,,,,,,
+19,Automóviles,Citroen Saxo 1.5 X 3p,1998,,,,,,,,,,,,,,,,,,,,,,
+19,Automóviles,Mercedes Benz S 320 CDI,2008,,,,,,,,,,,,,,,,,,,,,,
+19,Otros,Bombardier Outlander,2009,,,,,,,,,,,,,,,,,,,,,,
+20,Automóviles,Hyundai Terracan,2004,,,,,,,,,,,,,,,,,,,,,,
+21,Automóviles,Mercedes C280 (50%),1999,,,,,,,,,,,,,,,,,,,,,,
+21,Automóviles,Mercedes E200 (50%),2008,,,,,,,,,,,,,,,,,,,,,,
+21,Motocicletas,Kymco GD125 (50%),2007,,,,,,,,,,,,,,,,,,,,,,
+21,Motocicletas,Suzuky VL800 (50%),2014,,,,,,,,,,,,,,,,,,,,,,
+24,Automóviles,Peugeot 406,2000,,,,,,,,,,,,,,,,,,,,,,
+25,Automóviles,Dacia Sandero Stepway,24/04/2015,,,,,,,,,,,,,,,,,,,,,,
+28,Automóviles,Nissan Qashquai,30/10/2008,,,,,,,,,,,,,,,,,,,,,,
+32,Automóviles,Citroen C3 (50%),marzo 2011,,,,,,,,,,,,,,,,,,,,,,
+32,Automóviles,Citroen Xara Picasso (50%),septiembre 2004,,,,,,,,,,,,,,,,,,,,,,
+36,Automóviles,Lexus,15/11/2011,,,,,,,,,,,,,,,,,,,,,,
+38,Automóviles,Renault Megane,28/04/2010,,,,,,,,,,,,,,,,,,,,,,
+39,Automóviles,Nissan NV200,23/02/2012,,,,,,,,,,,,,,,,,,,,,,
+40,Automóviles,Opel Zafira Enjoy 1.9,16/08/2006,,,,,,,,,,,,,,,,,,,,,,
+41,Automóviles,Opel Astra 5P Club 1.6 SV II 64/55 (cvf),2015,,,,,,,,,,,,,,,,,,,,,,
+42,Motocicletas,Kymco Venox,01/02/2003,,,,,,,,,,,,,,,,,,,,,,
+43,Automóviles,Nissan Qashqai J10,19/02/2014,,,,,,,,,,,,,,,,,,,,,,
+44,Automóviles,Renault Scenic,30/08/2012,,,,,,,,,,,,,,,,,,,,,,
+45,Automóviles,BMV 116 I,01/02/2005,,,,,,,,,,,,,,,,,,,,,,
+46,Automóviles,Ford Focus,01/02/2008,,,,,,,,,,,,,,,,,,,,,,
+47,Automóviles,Seat León,07/04/2011,,,,,,,,,,,,,,,,,,,,,,
+49,Automóviles,Volkswagen Polo,01/07/2002,,,,,,,,,,,,,,,,,,,,,,
+50,Automóviles,Alfa Romeo 156,01/04/2004,,,,,,,,,,,,,,,,,,,,,,
+52,Automóviles,Toyota Averso Active 2000,29/12/2009,,,,,,,,,,,,,,,,,,,,,,
+53,Automóviles,Seat Ibiza TDI,01/03/2003,,,,,,,,,,,,,,,,,,,,,,
+54,Motocicletas,Scotter Honda Scoopy,18/06/2009,,,,,,,,,,,,,,,,,,,,,,
+56,Automóviles,Volkswagen Polo TDI,14/10/2005,,,,,,,,,,,,,,,,,,,,,,
+58,Automóviles,Mercedes 180,2002,,,,,,,,,,,,,,,,,,,,,,
+58,Automóviles,Mercedes 380,2006,,,,,,,,,,,,,,,,,,,,,,
+59,Automóviles,SEAT IBIZA,17/02/2012,,,,,,,,,,,,,,,,,,,,,,
+61,Automóviles,Ford S Max,01/01/2015,,,,,,,,,,,,,,,,,,,,,,

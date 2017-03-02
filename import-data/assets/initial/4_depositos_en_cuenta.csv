@@ -1,143 +1,146 @@
-CodigoPersona,Clase,Entidad de depósito,Saldo medio anual o valor (euros)
-1,Cuenta corriente,Bankia,"3.812,36 €"
-1,Cuenta corriente,Bankia (Caja Ávila),"1.731,38 €"
-1,Cuenta corriente,Bankia (Caja Ávila),"2.378,04 €"
-1,Cuenta corriente,Banco Santander,"44.866,65 €"
-2,Cuenta corriente,Bankia,"2.565,75 €"
-2,Cuenta corriente,Bankia,"35.055,07 €"
-3,Cuenta corriente,ING Direct,"3.451,92 €"
-3,Cuenta naranja,ING Direct,"29.941,73 €"
-4,Cuenta corriente,Bankia (50%),"2.500,00 €"
-4,Cuenta corriente,Banco Santander (50%),"5.000,00 €"
-5,Cuenta corriente,Caixa,"19.842,00 €"
-6,Cuenta corriente,Madrid,"20.000,00 €"
-6,Depósito a plazo,Madrid,"60.000,00 €"
-6,Cuenta corriente,París,"12.500,00 €"
-6,Depósito a plazo,París,"23.143,00 €"
-6,Depósito PEL,París,"13.670,00 €"
-7,Cuenta corriente,Banco Santander,"7.000,00 €"
-8,Libreta de Ahorro,Bankia,"1.200,00 €"
-8,Libreta de Ahorro,Bankia,"300,00 €"
-9,Cuenta corriente,Catalunya Banc,"1.970,00 €"
-9,Imposiciones a plazo,Catalunya Banc,"236.810,00 €"
-10,Cuenta corriente,en Madrid,"70.507,00 €"
-10,Cuenta corriente,en Madrid,"53.054,00 €"
-10,Cuenta corriente,en Madrid,"4.300,00 €"
-10,Cuenta corriente,en Londres,"4.100,00 €"
-10,Cuenta corriente,en Nueva York,"2.970,00 €"
-10,Cuenta corriente,en Madrid,"1.250,00 €"
-11,Cuenta corriente,Caixa,"2.000,00 €"
-12,Cuenta Corriente,Entidad Bancaria en Madrid,"1.000,00 €"
-12,Cuenta Corriente,Entidad Bancaria en Madrid,"60.282,00 €"
-13,Cuenta corriente  ,Caja de Ingenieros,"1.500,00 €"
-13,Cuenta de ahorro  ,Caja de Ingenieros,"3.000,00 €"
-14,Cuenta corriente ,Bankia,"5.890,00 €"
-15,Cuenta corriente ,ING Bank (50%),"15.357,38 €"
-15,Cuenta corriente  ,Caixa Bank (50%),"5.268,82 €"
-15,Cuenta de ahorro  ,Caixa Bank (50%),"10.806,41 €"
-15,Cuenta de ahorro  ,Bankia (50%),"3.517,67 €"
-16,Cuenta corriente,Bankia,"15.000,00 €"
-17,Cuenta corriente,Santander,"3.700,00 €"
-18,Libreta fácil,Bankia,"2.913,00 €"
-18,Cuenta corriente,Ibercaja,"6.782,00 €"
-18,Cuenta ahorro,Kutxabank,"87.399,00 €"
-18,Plan fácil,Kutxabank,"11.035,00 €"
-18,KB Gestión,Kutxabank,"20.782,00 €"
-19,Cuentas y depósitos,Bankia ( 3 cuentas y el 25% una cuenta y un depósito),"26.475,57 €"
-20,Cuenta corriente,Banco Sabadell,"2.735,09 €"
-20,Cuenta ahorro,ING Direct,"26.822,73 €"
-20,Cuenta corriente,ING Direct,"227,24 €"
-21,Cuentas vta.,Banco de Santander (conjunta cónyuge),"2.270,00 €"
-21,Cuentas vta.,Bankia (conjunta cónyuge),"20.041,78 €"
-22,Cuenta corriente,BBVA,"40.000,00 €"
-24,Cuenta naranja,ING (cotitular),"45.886,00 €"
-24,Cuena nómina,ING (cotitular),"1.700,00 €"
-25,Cuenta corriente,ING Direct,"1.000,00 €"
-25,Cuenta corriente,ING Direct,"100,00 €"
-25,Cuenta de ahorro,Banco Santander,"100,00 €"
-26,Cuenta corriente,Caixa,"800,00 €"
-27,Cuenta corriente,BBVA,"150,00 €"
-27,Cuenta corriente,Caja de Ingenieros,"15.000,00 €"
-28,Depósito,ING Direct,"18.000,00 €"
-29,Cuenta ahorro,Kutxabank,"1.563,84 €"
-29,Cuenta ahorro,BBVA,"3.157,94 €"
-29,Cuenta ahorro,Banco Santander,"6.949,65 €"
-29,Cuenta ahorro,Banco Santander,"1.359,57 €"
-30,Cuenta corriente,Caja de Ingenieros,"14.000,00 €"
-31,Cuenta corriente,BBVA,"26.502,00 €"
-32,Cuenta corriente ,ING Bank NY sucursal en España (50%),"53.784,18 €"
-32,Cuenta corriente ,ING Bank NY sucursal en España (50%),"2.850,08 €"
-32,Cuenta corriente ,BBVA (50%),"2.242,52 €"
-34,Cuenta corriente,Laboral Kutxa,"21.800,00 €"
-34,Cuenta corriente,Laboral Kutxa,"2.630,00 €"
-35,Libreta de Ahorro,Bankia,"51.492,09 €"
-35,Cuenta corriente,Bankinter,"895,50 €"
-36,Imposición a plazo,Catalunya Bank,"69.000,00 €"
-36,Imposición a plazo,Deutsche Bank,"7.290,00 €"
-36,Fondo de inversión,Bankia,"1.633,00 €"
-36,Cuenta corriente,Banco Santander,"10.000,00 €"
-37,Libreta de ahorro,La Caixa,"400,00 €"
-37,Cuenta corriente,BBV,"100,00 €"
-38,Cuenta corriente,Kutxabank,"12.000,00 €"
-39,Cuenta corriente,Bankia,"2.864,72 €"
-39,Cartilla,La Caixa,"140,00 €"
-39,Cuenta corriente,ING,"700,00 €"
-40,Cuenta de ahorro,ING Direct,"275,78 €"
-40,Cuenta corriente,ING Direct,"245,53 €"
-40,Cuenta de ahorro,Bankia,"617,14 €"
-41,Cuenta corriente,Triodos Bank,"1.000,00 €"
-42,Cuenta corriente,Santander,"5.000,00 €"
-42,Cuenta corriente,Santander,"5,00 €"
-42,Cuenta corriente,Ibercaja,"1.000,00 €"
-42,Cuenta corriente,Ibercaja,"500,00 €"
-42,Cuenta corriente,Bankia,"3.000,00 €"
-42,Cuenta corriente,Bankia,"200,00 €"
-42,Cuenta de inversión,Self Trade Bank,"1.000,00 €"
-42,Cuenta inversión,Saxo Bank,"2.000,00 €"
-43,Cuenta corriente,Bankia,"6.068,00 €"
-43,Cuenta de ahorro,Bankia,"308,00 €"
-44,Imposición en cuenta,Bankia,"15.400,00 €"
-44,Imposición en cuenta,Banco Sabadell,"20.000,00 €"
-44,Imposición en cuenta,Banco Popular,"80.000,00 €"
-44,Imposición en cuenta,Banco Santander,"54.800,00 €"
-45,Cuenta de ahorro,ING,"400,00 €"
-46,Cuenta corriente,Caixa,"3.000,00 €"
-47,Cuenta corriente,Deutsche bank,"1.000,00 €"
-48,Cuenta corriente,BBVA,"425,14 €"
-48,Cuenta naranja,ING Direct,"1.590,02 €"
-48,Cuenta corriente,Banco de Santander,"3.499,99 €"
-48,Cuenta corriente,Activo Bank,"30.046,88 €"
-48,Depósito (nuda propiedad),Banco Popular,"110.000,00 €"
-48,Cuenta,Renta 4,"1.891,32 €"
-48,Cuenta corriente,CajaMar,"3.681,21 €"
-48,Cuenta corriente,Bankia,"2.001,59 €"
-48,Depósito (nuda propiedad),Bankia,"99.950,00 €"
-49,Depósito,Triodos Bank,"1.000,00 €"
-49,Cuenta corriente,BBVA,"19.000,00 €"
-50,Depósito,ING,"5.000,00 €"
-51,Cuenta corriente,Bankia,"100,00 €"
-51,Depósito,Bankia,"3.000,00 €"
-52,Depósito a la vista,Ibercaja (50%),"4.170,67 €"
-52,Depósito a plazo,Ibercaja (50%),"3.600,00 €"
-52,Plan de ahorro,Ibercaja (50%),"498,60 €"
-52,Cuenta corriente,Bankia (50%),"2.613,05 €"
-52,Cuenta corriente,Bankia (50%),"100,75 €"
-52,Cuenta a la vista,Caixa (50%),"2.836,53 €"
-52,Seguro de ahorro,Caixa (50%),"3.528,69 €"
-53,Cuenta corriente,Banco Santander,"18.000,00 €"
-54,Cuenta de ahorro,ING,"10.000,00 €"
-56,Cuenta corriente,Bankinter,"1.504,00 €"
-56,Cuenta corriente,Bankinter,"1.439,50 €"
-57,,Banco Caminos,"3.000,00 €"
-57,,Banco Caminos,"3.000,00 €"
-57,,Bankia,"1.000,00 €"
-58,Cuenta Corriente,Bankia," 10.771,85 € "
-58,Cuenta Corriente,BBVA," 148,35 € "
-58,Cuenta Corriente,Deutsche Bank," 293,11 € "
-58,Cuenta Corriente,Banco Santander," 150,00 € "
-59,Ahorro,Banco Sabadell,"2.000,00 €"
-59,Corriente,Banco Sabadell,"0,00 €"
-59,Ahorro,ING DIRECT (50%),"2.900,00 €"
-59,Ahorro,ING DIRECT (100%),"400,00 €"
-60,Cuenta de Ahorros,ING DIRECT,"19.000,00 €"
-60,Cuenta de Ahorros,BBVA Colombia,"1.000,00 €"
+CodigoPersona,Clase,Entidad de depósito,Saldo medio anual o valor (euros),,,,,,,,,,,,,,,,,,,,,,
+1,Cuenta corriente,Bankia,"3.812,36 €",,,,,,,,,,,,,,,,,,,,,,
+1,Cuenta corriente,Bankia (Caja Ávila),"1.731,38 €",,,,,,,,,,,,,,,,,,,,,,
+1,Cuenta corriente,Bankia (Caja Ávila),"2.378,04 €",,,,,,,,,,,,,,,,,,,,,,
+1,Cuenta corriente,Banco Santander,"44.866,65 €",,,,,,,,,,,,,,,,,,,,,,
+2,Cuenta corriente,Bankia,"2.565,75 €",,,,,,,,,,,,,,,,,,,,,,
+2,Cuenta corriente,Bankia,"35.055,07 €",,,,,,,,,,,,,,,,,,,,,,
+3,Cuenta corriente,ING Direct,"3.451,92 €",,,,,,,,,,,,,,,,,,,,,,
+3,Cuenta naranja,ING Direct,"29.941,73 €",,,,,,,,,,,,,,,,,,,,,,
+4,Cuenta corriente,Bankia (50%),"2.500,00 €",,,,,,,,,,,,,,,,,,,,,,
+4,Cuenta corriente,Banco Santander (50%),"5.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+5,Cuenta corriente,Caixa,"19.842,00 €",,,,,,,,,,,,,,,,,,,,,,
+6,Cuenta corriente,Madrid,"20.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+6,Depósito a plazo,Madrid,"60.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+6,Cuenta corriente,París,"12.500,00 €",,,,,,,,,,,,,,,,,,,,,,
+6,Depósito a plazo,París,"23.143,00 €",,,,,,,,,,,,,,,,,,,,,,
+6,Depósito PEL,París,"13.670,00 €",,,,,,,,,,,,,,,,,,,,,,
+7,Cuenta corriente,Banco Santander,"7.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+8,Libreta de Ahorro,Bankia,"1.200,00 €",,,,,,,,,,,,,,,,,,,,,,
+8,Libreta de Ahorro,Bankia,"300,00 €",,,,,,,,,,,,,,,,,,,,,,
+9,Cuenta corriente,Catalunya Banc,"1.970,00 €",,,,,,,,,,,,,,,,,,,,,,
+9,Imposiciones a plazo,Catalunya Banc,"236.810,00 €",,,,,,,,,,,,,,,,,,,,,,
+10,Cuenta corriente,en Madrid,"70.507,00 €",,,,,,,,,,,,,,,,,,,,,,
+10,Cuenta corriente,en Madrid,"53.054,00 €",,,,,,,,,,,,,,,,,,,,,,
+10,Cuenta corriente,en Madrid,"4.300,00 €",,,,,,,,,,,,,,,,,,,,,,
+10,Cuenta corriente,en Londres,"4.100,00 €",,,,,,,,,,,,,,,,,,,,,,
+10,Cuenta corriente,en Nueva York,"2.970,00 €",,,,,,,,,,,,,,,,,,,,,,
+10,Cuenta corriente,en Madrid,"1.250,00 €",,,,,,,,,,,,,,,,,,,,,,
+11,Cuenta corriente,Caixa,"2.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+12,Cuenta Corriente,Entidad Bancaria en Madrid,"1.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+12,Cuenta Corriente,Entidad Bancaria en Madrid,"60.282,00 €",,,,,,,,,,,,,,,,,,,,,,
+13,Cuenta corriente  ,Caja de Ingenieros,"1.500,00 €",,,,,,,,,,,,,,,,,,,,,,
+13,Cuenta de ahorro  ,Caja de Ingenieros,"3.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+14,Cuenta corriente ,Bankia,"5.890,00 €",,,,,,,,,,,,,,,,,,,,,,
+15,Cuenta corriente ,ING Bank (50%),"15.357,38 €",,,,,,,,,,,,,,,,,,,,,,
+15,Cuenta corriente  ,Caixa Bank (50%),"5.268,82 €",,,,,,,,,,,,,,,,,,,,,,
+15,Cuenta de ahorro  ,Caixa Bank (50%),"10.806,41 €",,,,,,,,,,,,,,,,,,,,,,
+15,Cuenta de ahorro  ,Bankia (50%),"3.517,67 €",,,,,,,,,,,,,,,,,,,,,,
+16,Cuenta corriente,Bankia,"15.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+17,Cuenta corriente,Santander,"3.700,00 €",,,,,,,,,,,,,,,,,,,,,,
+18,Libreta fácil,Bankia,"2.913,00 €",,,,,,,,,,,,,,,,,,,,,,
+18,Cuenta corriente,Ibercaja,"6.782,00 €",,,,,,,,,,,,,,,,,,,,,,
+18,Cuenta ahorro,Kutxabank,"87.399,00 €",,,,,,,,,,,,,,,,,,,,,,
+18,Plan fácil,Kutxabank,"11.035,00 €",,,,,,,,,,,,,,,,,,,,,,
+18,KB Gestión,Kutxabank,"20.782,00 €",,,,,,,,,,,,,,,,,,,,,,
+19,Cuentas y depósitos,Bankia ( 3 cuentas y el 25% una cuenta y un depósito),"26.475,57 €",,,,,,,,,,,,,,,,,,,,,,
+20,Cuenta corriente,Banco Sabadell,"2.735,09 €",,,,,,,,,,,,,,,,,,,,,,
+20,Cuenta ahorro,ING Direct,"26.822,73 €",,,,,,,,,,,,,,,,,,,,,,
+20,Cuenta corriente,ING Direct,"227,24 €",,,,,,,,,,,,,,,,,,,,,,
+21,Cuentas vta.,Banco de Santander (conjunta cónyuge),"2.270,00 €",,,,,,,,,,,,,,,,,,,,,,
+21,Cuentas vta.,Bankia (conjunta cónyuge),"20.041,78 €",,,,,,,,,,,,,,,,,,,,,,
+22,Cuenta corriente,BBVA,"40.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+24,Cuenta naranja,ING (cotitular),"45.886,00 €",,,,,,,,,,,,,,,,,,,,,,
+24,Cuena nómina,ING (cotitular),"1.700,00 €",,,,,,,,,,,,,,,,,,,,,,
+25,Cuenta corriente,ING Direct,"1.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+25,Cuenta corriente,ING Direct,"100,00 €",,,,,,,,,,,,,,,,,,,,,,
+25,Cuenta de ahorro,Banco Santander,"100,00 €",,,,,,,,,,,,,,,,,,,,,,
+26,Cuenta corriente,Caixa,"800,00 €",,,,,,,,,,,,,,,,,,,,,,
+27,Cuenta corriente,BBVA,"150,00 €",,,,,,,,,,,,,,,,,,,,,,
+27,Cuenta corriente,Caja de Ingenieros,"15.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+28,Depósito,ING Direct,"18.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+29,Cuenta ahorro,Kutxabank,"1.563,84 €",,,,,,,,,,,,,,,,,,,,,,
+29,Cuenta ahorro,BBVA,"3.157,94 €",,,,,,,,,,,,,,,,,,,,,,
+29,Cuenta ahorro,Banco Santander,"6.949,65 €",,,,,,,,,,,,,,,,,,,,,,
+29,Cuenta ahorro,Banco Santander,"1.359,57 €",,,,,,,,,,,,,,,,,,,,,,
+30,Cuenta corriente,Caja de Ingenieros,"14.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+31,Cuenta corriente,BBVA,"26.502,00 €",,,,,,,,,,,,,,,,,,,,,,
+32,Cuenta corriente ,ING Bank NY sucursal en España (50%),"53.784,18 €",,,,,,,,,,,,,,,,,,,,,,
+32,Cuenta corriente ,ING Bank NY sucursal en España (50%),"2.850,08 €",,,,,,,,,,,,,,,,,,,,,,
+32,Cuenta corriente ,BBVA (50%),"2.242,52 €",,,,,,,,,,,,,,,,,,,,,,
+34,Cuenta corriente,Laboral Kutxa,"21.800,00 €",,,,,,,,,,,,,,,,,,,,,,
+34,Cuenta corriente,Laboral Kutxa,"2.630,00 €",,,,,,,,,,,,,,,,,,,,,,
+35,Libreta de Ahorro,Bankia,"51.492,09 €",,,,,,,,,,,,,,,,,,,,,,
+35,Cuenta corriente,Bankinter,"895,50 €",,,,,,,,,,,,,,,,,,,,,,
+36,Imposición a plazo,Catalunya Bank,"69.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+36,Imposición a plazo,Deutsche Bank,"7.290,00 €",,,,,,,,,,,,,,,,,,,,,,
+36,Fondo de inversión,Bankia,"1.633,00 €",,,,,,,,,,,,,,,,,,,,,,
+36,Cuenta corriente,Banco Santander,"10.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+37,Libreta de ahorro,La Caixa,"400,00 €",,,,,,,,,,,,,,,,,,,,,,
+37,Cuenta corriente,BBV,"100,00 €",,,,,,,,,,,,,,,,,,,,,,
+38,Cuenta corriente,Kutxabank,"12.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+39,Cuenta corriente,Bankia,"2.864,72 €",,,,,,,,,,,,,,,,,,,,,,
+39,Cartilla,La Caixa,"140,00 €",,,,,,,,,,,,,,,,,,,,,,
+39,Cuenta corriente,ING,"700,00 €",,,,,,,,,,,,,,,,,,,,,,
+40,Cuenta de ahorro,ING Direct,"275,78 €",,,,,,,,,,,,,,,,,,,,,,
+40,Cuenta corriente,ING Direct,"245,53 €",,,,,,,,,,,,,,,,,,,,,,
+40,Cuenta de ahorro,Bankia,"617,14 €",,,,,,,,,,,,,,,,,,,,,,
+41,Cuenta corriente,Triodos Bank,"1.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+42,Cuenta corriente,Santander,"5.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+42,Cuenta corriente,Santander,"5,00 €",,,,,,,,,,,,,,,,,,,,,,
+42,Cuenta corriente,Ibercaja,"1.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+42,Cuenta corriente,Ibercaja,"500,00 €",,,,,,,,,,,,,,,,,,,,,,
+42,Cuenta corriente,Bankia,"3.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+42,Cuenta corriente,Bankia,"200,00 €",,,,,,,,,,,,,,,,,,,,,,
+42,Cuenta de inversión,Self Trade Bank,"1.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+42,Cuenta inversión,Saxo Bank,"2.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+43,Cuenta corriente,Bankia,"6.068,00 €",,,,,,,,,,,,,,,,,,,,,,
+43,Cuenta de ahorro,Bankia,"308,00 €",,,,,,,,,,,,,,,,,,,,,,
+44,Imposición en cuenta,Bankia,"15.400,00 €",,,,,,,,,,,,,,,,,,,,,,
+44,Imposición en cuenta,Banco Sabadell,"20.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+44,Imposición en cuenta,Banco Popular,"80.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+44,Imposición en cuenta,Banco Santander,"54.800,00 €",,,,,,,,,,,,,,,,,,,,,,
+45,Cuenta de ahorro,ING,"400,00 €",,,,,,,,,,,,,,,,,,,,,,
+46,Cuenta corriente,Caixa,"3.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+47,Cuenta corriente,Deutsche bank,"1.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+48,Cuenta corriente,BBVA,"425,14 €",,,,,,,,,,,,,,,,,,,,,,
+48,Cuenta naranja,ING Direct,"1.590,02 €",,,,,,,,,,,,,,,,,,,,,,
+48,Cuenta corriente,Banco de Santander,"3.499,99 €",,,,,,,,,,,,,,,,,,,,,,
+48,Cuenta corriente,Activo Bank,"30.046,88 €",,,,,,,,,,,,,,,,,,,,,,
+48,Depósito (nuda propiedad),Banco Popular,"110.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+48,Cuenta,Renta 4,"1.891,32 €",,,,,,,,,,,,,,,,,,,,,,
+48,Cuenta corriente,CajaMar,"3.681,21 €",,,,,,,,,,,,,,,,,,,,,,
+48,Cuenta corriente,Bankia,"2.001,59 €",,,,,,,,,,,,,,,,,,,,,,
+48,Depósito (nuda propiedad),Bankia,"99.950,00 €",,,,,,,,,,,,,,,,,,,,,,
+49,Depósito,Triodos Bank,"1.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+49,Cuenta corriente,BBVA,"19.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+50,Depósito,ING,"5.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+51,Cuenta corriente,Bankia,"100,00 €",,,,,,,,,,,,,,,,,,,,,,
+51,Depósito,Bankia,"3.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+52,Depósito a la vista,Ibercaja (50%),"4.170,67 €",,,,,,,,,,,,,,,,,,,,,,
+52,Depósito a plazo,Ibercaja (50%),"3.600,00 €",,,,,,,,,,,,,,,,,,,,,,
+52,Plan de ahorro,Ibercaja (50%),"498,60 €",,,,,,,,,,,,,,,,,,,,,,
+52,Cuenta corriente,Bankia (50%),"2.613,05 €",,,,,,,,,,,,,,,,,,,,,,
+52,Cuenta corriente,Bankia (50%),"100,75 €",,,,,,,,,,,,,,,,,,,,,,
+52,Cuenta a la vista,Caixa (50%),"2.836,53 €",,,,,,,,,,,,,,,,,,,,,,
+52,Seguro de ahorro,Caixa (50%),"3.528,69 €",,,,,,,,,,,,,,,,,,,,,,
+53,Cuenta corriente,Banco Santander,"18.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+54,Cuenta de ahorro,ING,"10.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+56,Cuenta corriente,Bankinter,"1.504,00 €",,,,,,,,,,,,,,,,,,,,,,
+56,Cuenta corriente,Bankinter,"1.439,50 €",,,,,,,,,,,,,,,,,,,,,,
+57,,Banco Caminos,"3.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+57,,Banco Caminos,"3.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+57,,Bankia,"1.000,00 €",,,,,,,,,,,,,,,,,,,,,,
+58,Cuenta Corriente,Bankia,"10.771,85 €",,,,,,,,,,,,,,,,,,,,,,Inicial
+58,Cuenta Corriente,BBVA,"148,35 €",,,,,,,,,,,,,,,,,,,,,,Final
+58,Cuenta Corriente,Deutsche Bank,"293,11 €",,,,,,,,,,,,,,,,,,,,,,Modificación
+58,Cuenta Corriente,Banco Santander,"150,00 €",,,,,,,,,,,,,,,,,,,,,,
+59,Ahorro,Banco Sabadell,"2.000,00 €",,,,,,,,,,,,,,,,,,,,,,Inicial
+59,Corriente,Banco Sabadell,"0,00 €",,,,,,,,,,,,,,,,,,,,,,Final
+59,Ahorro,ING DIRECT (50%),"2.900,00 €",,,,,,,,,,,,,,,,,,,,,,Modificación
+59,Ahorro,ING DIRECT (100%),"400,00 €",,,,,,,,,,,,,,,,,,,,,,
+60,Cuenta de Ahorros,ING DIRECT,"19.000,00 €",,,,,,,,,,,,,,,,,,,,,,Inicial
+60,Cuenta de Ahorros,BBVA Colombia,"1.000,00 €",,,,,,,,,,,,,,,,,,,,,,Final
+61,CUENTA CORRIENTE,ING DIRECT,"749,25 €",,,,,,,,,,,,,,,,,,,,,,
+61,CUENTA CORRIENTE,ING DIRECT (Compartida),"431,28 €",,,,,,,,,,,,,,,,,,,,,,
+61,CUENTA AHORRO,ING DIRECT,"8.437,09 €",,,,,,,,,,,,,,,,,,,,,,
