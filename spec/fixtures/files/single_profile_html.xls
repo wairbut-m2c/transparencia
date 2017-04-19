@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+	
+	<body>
+	
+		
+		<h1>Auditoría:&nbsp;Formulario para la publicación del perfil y trayectoria profesional de concejales, titulares de órganos directivos y personal eventual<br></h1>		
+		<table align="left" border="1">
+		
+			<thead>
+				<tr bgcolor="#CDDFF7">
+					<th>Fecha</th>
+					<th>Referencia</th>
+					<th>Nombre</th><th>Apellidos</th><th>Cargo</th><th>Unidad</th><th>Correo electrónico</th><th>Nº personal</th><th>Cuenta de Twitter</th><th>Cuenta de Facebook</th><th>Si usted es PERSONAL EVENTUAL marque la casilla para autorizar la publicación de sus datos en el Portal de Gobierno Abierto/Transparencia.</th><th>1º Titulación oficial</th><th>Centro de expedición</th><th>Año de inicio</th><th>Año de fin</th><th>2º Titulación oficial</th><th>Centro de expedición</th><th>Año de inicio</th><th>Año de fin</th><th>3º Titulación oficial</th><th>Centro de expedición</th><th>Año de inicio</th><th>Año de fin</th><th>4º Titulación oficial</th><th>Centro de expedición</th><th>Año de inicio</th><th>Año de fin</th><th>Texto11</th><th>Otros</th><th>1º Nombre del curso</th><th>Nombre del centro</th><th>Año de inicio</th><th>Año de fin</th><th>2º Nombre del curso</th><th>Nombre del centro</th><th>Año de inicio</th><th>Año de fin</th><th>3º Nombre del curso</th><th>Nombre del centro</th><th>Año de inicio</th><th>Año de fin</th><th>4º Nombre del curso</th><th>Nombre del centro</th><th>Año de inicio</th><th>Año de fin</th><th>Texto12</th><th>Otros</th><th>Inglés</th><th>Francés</th><th>Alemán</th><th>Italiano</th><th>Otro idioma</th><th>Nivel otro idioma</th><th>Ámbito público</th><th>-----</th><th>Cuerpo o escala de la administración</th><th>Año de ingreso</th><th>1º Puesto desempeñado</th><th>Administración</th><th>Año de inicio</th><th>Año de fin</th><th>2º Puesto desempeñado</th><th>Administración</th><th>Año de inicio</th><th>Año de fin</th><th>3º Puesto desempeñado</th><th>Administración</th><th>Año de inicio</th><th>Año de fin</th><th>4º Puesto desempeñado</th><th>Administración</th><th>Año de inicio</th><th>Año de fin</th><th>Grado consolidado</th><th>---</th><th>Ámbito privado</th><th>---</th><th>1º Cargo/Actividad</th><th>Empresa/ONG</th><th>Año de inicio</th><th>Año de fin</th><th>2º Cargo/Actividad</th><th>Empresa/ONG</th><th>Año de inicio</th><th>Año de fin</th><th>3º Cargo/Actividad</th><th>Empresa/ONG</th><th>Año de inicio</th><th>Año de fin</th><th>4º Cargo/Actividad</th><th>Empresa/ONG</th><th>Año de inicio</th><th>Año de fin</th><th>Texto13</th><th>Otros</th><th>1º Cargo</th><th>Nombre de la institución</th><th>Año de inicio</th><th>Año de fin</th><th>2º Cargo</th><th>Nombre de la institución</th><th>Año de inicio</th><th>Año de fin</th><th>3º Cargo</th><th>Nombre de la institución</th><th>Año de inicio</th><th>Año de fin</th><th>4º Cargo</th><th>Nombre de la institución</th><th>Año de inicio</th><th>Año de fin</th><th>Texto14</th><th>Otros</th><th>Publicaciones</th><th>Actividad</th><th>Distinciones</th><th>Otra información</th><th>Texto15</th><th>Confirme que ha leído las condiciones de publicidad de los datos aportados.</th>
+					<th>Resultado</th>
+					<!-- RECOVERY ESTADO: descomentar para habilitar la funcionalidad de ESTADO
+					<th>Estado</th>
+					-->
+				</tr>
+			</thead>
+			<tbody>
+        <tr bgcolor="#F5F5F5"><td align="center">10/03/17 16:45:22</td><td align="center">293052</td><td align="center">PABLO</td><td align="center">FERNANDEZ LEWICKI</td><td align="center">ASESOR/A N26</td><td align="center">CONCEJAL PRESIDENTE JMD CHAMBERI</td><td align="center">fernandezlpa@madrid.es</td><td align="center">177140</td><td align="center"></td><td align="center"></td><td align="center">SI</td><td align="center">Arquitecto</td><td align="center">ETSAM - UPM</td><td align="center">1994</td><td align="center">2002</td><td align="center">Especialista en Cooperación para el desarrollo de asentamientos humanos en el Tercer Mundo</td><td align="center">ETSAM - UPM</td><td align="center">2009</td><td align="center">2009</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center">medio</td><td align="center">bajo</td><td align="center"></td><td align="center">bajo</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center">Arquitecto por cuenta propia</td><td align="center"></td><td align="center">2002</td><td align="center">2016</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center">Ejercicio profesional como arquitecto a lo largo de más de 14 años, fundamentalmente en el campo de la Edificación, habiendo proyectado y/o ejecutado diversidad de obras (viviendas, hoteles, mercados, auditorios, museos, etc), recibido diversidad de premios en concursos de arquitectura, y con obra seleccionada en publicaciones y exposiciones tanto nacionales como internacionales.</td><td align="center">Vocal Vecino Grupo del Municipal Ahora Madrid</td><td align="center">JMD Chamberí</td><td align="center">2015</td><td align="center">2016</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center">SI</td><td align="center">OK</td></tr>
+			</tbody>
+		</table>
+	</body>
+</html>
